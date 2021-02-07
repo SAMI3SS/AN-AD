@@ -1,0 +1,26 @@
+Genel:
+  time: 15
+Kontrol:
+  eylem:
+  - Console Log
+  - Popup
+  - Popup
+  - Alarm
+  - Mail
+  mesaj:
+  - Seviye 1
+  - Seviye 2
+  - Seviye 3
+  - Seviye 4
+  - Seviye 5
+  psayisi:
+  - '100'
+  - '200'
+  - '300'
+  - '5000'
+  - '7000'
+Mail:
+  mail: secsec720@gmail.com
+  password: !!binary |
+    ZEdWemRBPT0=
+  to: test.123@gmail.com
