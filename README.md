@@ -1,4 +1,4 @@
-# BitirmeProjesiAN-AD
+# AN-AD
 
 
 # DOS/DDOS SALDIRI TESPİTİ
